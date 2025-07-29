@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I am OdinPie</h1>
-<h3 align="center">a React Developer✨</h3>
+<h3 align="center">a ✨Software Engineer✨</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif" alt="odinpie" />
 
 
