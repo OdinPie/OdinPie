@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif" alt="odinpie" />
 
 
-- 🌱 I’m currently learning **Next JS, ThreeJS, AWS, Azure, Python**
+- 🌱 I’m currently working with **React JS, LLMs, Python and Azure Technologies**
 
 - 📫 How to reach me **maliha16tabassum@gmail.com**
 
